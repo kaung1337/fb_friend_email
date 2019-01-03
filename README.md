@@ -23,6 +23,6 @@ python email.py
 * **KHZ** - *Initial work* - [kaung htet zaw](https://github.com/khzesdp)
 
 
-## ScreenshotS
+### Screenshots
 
 ![Screenshot](PicsArt_01-03-07.17.24.jpg)
