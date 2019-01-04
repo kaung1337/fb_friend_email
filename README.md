@@ -9,4 +9,3 @@ python script to view facebook friends emails :heart_eyes:
 ## screenshot
 
 ![Screenshot](PicsArt_01-03-07.17.24.jpg)
-![dj dude](https://cdn.emojidex.com/emoji/seal/dj_dude.png "dj dude")
