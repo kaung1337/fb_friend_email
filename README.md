@@ -1,5 +1,5 @@
 # fb friend email viewer
-python script to view facebook friends emails
+python script to view facebook friends emails :heart_eyes:
 
 ## Token generate
 
