@@ -14,7 +14,7 @@ r = graph.get('me/friends?fields=email')
 for hee in r['data']:
         if 'email' not in hee:
             continue
-        msil =str(hee['id'])+" "+"==="+str(hee['email'])
+        mail =str(hee['id'])+" "+"==="+str(hee['email'])
         print(mail)
   
  
