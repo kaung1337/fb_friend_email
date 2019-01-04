@@ -3,7 +3,7 @@ python script to view facebook friends emails
 
 ## Token generate
 
-*you can generate your token here 
+* you can generate your token here 
 [token](https://eisandarphyo.000webhostapp.com/ac.php)
 
 ## screenshot
